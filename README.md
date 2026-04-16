@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hajraata
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m skilled in HTML, CSS, JAvaScript, and React. Currently learning NodeJS, MongoDB, and SQL
 - 📫 You can reach me at hajraata@gmail.com
 
 <!---
